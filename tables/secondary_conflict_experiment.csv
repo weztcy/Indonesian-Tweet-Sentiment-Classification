@@ -1,0 +1,5 @@
+treatment,model,macro_f1,accuracy
+Exclude_Conflicts (Primary),Supervised_20%,0.5294124769622793,
+Exclude_Conflicts (Primary),SelfTraining_20%,0.5330217580159761,0.5726753944276602
+Majority_Vote (Secondary),Supervised_20%,0.5339664621220727,0.579573624194348
+Majority_Vote (Secondary),SelfTraining_20%,0.5375217860634605,0.5805651958353991
